@@ -704,7 +704,7 @@ export const BestBuy: Store = {
     },
     {
       brand: 'nvidia',
-      // cartUrl: 'https://api.bestbuy.com/click/-/6614151/cart',
+      cartUrl: 'https://api.bestbuy.com/click/-/6614151/cart',
       model: 'founders edition',
       series: '5090',
       url: 'https://api.bestbuy.com/click/-/6614151/pdp',

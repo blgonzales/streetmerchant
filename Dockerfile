@@ -41,3 +41,4 @@ COPY package.json package.json
 
 ENTRYPOINT ["npm", "run"]
 CMD ["start:production"]
+# CMD ["test:notification:production"]

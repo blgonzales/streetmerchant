@@ -8,3 +8,5 @@ services:
     container_name: streetmerchant
     env_file:
       - dotenv
+    ports:
+    - "4000:4000"
